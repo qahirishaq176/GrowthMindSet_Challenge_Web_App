@@ -1,2 +1,1 @@
-# GrowthMindSet_Challenge_Web_App
- In this repo I made a powerful and user-friendly web app for refining, visualizing, and converting datasets with ease. Built with Streamlit for seamless CSV processing
+In this repository, I developed an app called Sweeep it Easy as part of a challenge assigned by Sir Zia Khan and successfully completed it within the given time, pushing my skills to the limit and making the experience both exciting and rewarding.
